@@ -1,16 +1,19 @@
-## Hi there 👋
+Python Fullstack Developer | Flask | React | JavaScript | MySQL
 
-<!--
-**santhosh-2906/santhosh-2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and deploy fullstack web applications with a focus on clean design, scalability, and real-world problem solving. 
+My work includes projects in Flask, React, MySQL, Bootstrap, and JavaScript, covering both frontend and backend development.
 
-Here are some ideas to get you started:
+Skills:
+- Languages: Python, JavaScript, SQL
+- Frameworks & Libraries: Flask, React, Bootstrap
+- Database: MySQL
+- Tools: Git, GitHub, Render, Clever Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Highlighted Projects:
+- Theatre Booking System (Flask, MySQL, Bootstrap)
+- CookBook (React, FLask, MySQL)
+- ToDo Application (Flask, React, MySQL)
+- Portfolio Website (React, CSS)
+- Flipkart-style E-commerce Application (React, Context API)
+  
+Open to Fullstack Developer opportunities (Python | Flask | React | MySQL)
